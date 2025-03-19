@@ -1,3 +1,5 @@
+You can view the project live at the following link:https://ArsenKazaryanJS.github.io/paper-rock/
+
 ![image](https://github.com/user-attachments/assets/c01eb056-619b-497c-a849-808e7adf6e42)
 
 Main functions:
