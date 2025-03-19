@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paper-rock/static/css/main.cc4304e0.css",
+    "main.js": "/paper-rock/static/js/main.24176be3.js",
+    "index.html": "/paper-rock/index.html",
+    "main.cc4304e0.css.map": "/paper-rock/static/css/main.cc4304e0.css.map",
+    "main.24176be3.js.map": "/paper-rock/static/js/main.24176be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc4304e0.css",
+    "static/js/main.24176be3.js"
+  ]
+}
